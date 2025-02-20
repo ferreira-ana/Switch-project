@@ -4,7 +4,7 @@
 
 This application was developed under the SWitCH program in order to apply the knowledged acquired during the postgradiation course.
 
-It's application that focuses on financial management foucused around families.
+It's an application that focuses on financial management foucused around families.
 
 This project was developed alongside with:
 
