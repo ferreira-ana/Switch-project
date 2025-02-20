@@ -1,32 +1,25 @@
-This is a sample of the documentation written for an application developed during the Switch postgraduation course.
+# README
 
-The project was developed in collaboration with:
-* Barbara Sousa (@barbaravsousa);
-          
-* Jorge Diogo (@jdiogo95);
-          
-* Márcia Guedes;
-          
-* Raquel Camacho;
-          
-* Ricardo Mendes (@mendes-r);
-          
-* Tiago Valente;
-          
-* Tomás Furtado
+## FINANCE WEB APPLICATION - SWitCH 2020 Project
 
+This application was developed under the SWitCH program in order to apply the knowledged acquired during the postgradiation course.
 
+It's application that focuses on financial management foucused around families.
 
-# SWITCH 2020-21 GROUP 2 PROJECT
+This project was developed alongside with:
 
-This wiki is the Software Architecture Document (SAD) for the Family Finance Management Application (FFM) developed in the context of SWITCH 2020-21 edition.
+              -> Bárbara Sousa(@barbaravsousa);
 
-This SAD consists of:
+              -> Jorge Diogo (@jdiogo95);
 
-- [Architecture Background](Background.md)
-- [Views](Views.md)
-- [Mapping Between Views](Mapping.md)
-- [Referenced Materials](References.md)
-- [Glossary and Acronyms](Glossary&Acronyms.md)
+              -> Márcia Guedes;
 
-NB: This SAD is based on [Software+Architecture+Documentation+Template](https://wiki.sei.cmu.edu/confluence/display/SAD/Software+Architecture+Documentation+Template)
+              -> Raquel Camacho;
+
+              -> Ricardo Mendes (@mendes-r);
+
+              -> Tiago Valente;
+
+              -> Tomás Furtado
+
+Finally, this version is the final product that was showcased at the end of the course.
